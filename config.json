@@ -1,0 +1,28 @@
+{
+    "model_config_list": [
+        { 
+            "config": {
+                "name": "Qwen3-8B-int4-cw-ov",
+                "base_path": "C:\\Users\\zpdx11\\Desktop\\ov\\models\\OpenVINO\\Qwen3-8B-int4-cw-ov"
+            }
+        },
+        { 
+            "config": {
+                "name": "Qwen3-4B-int4-ov",
+                "base_path": "C:\\Users\\zpdx11\\Desktop\\ov\\models\\OpenVINO\\Qwen3-4B-int4-ov"
+            }
+        },
+        { 
+            "config": {
+                "name": "Qwen3-4B-int4-cw-ov",
+                "base_path": "C:\\Users\\zpdx11\\Desktop\\ov\\models\\OpenVINO\\Qwen3-4B-int4-cw-ov"
+            }
+        },
+        { 
+            "config": {
+                "name": "Qwen3-8B-int4-ov",
+                "base_path": "C:\\Users\\zpdx11\\Desktop\\ov\\models\\OpenVINO\\Qwen3-8B-int4-ov"
+            }
+        }
+    ]
+}

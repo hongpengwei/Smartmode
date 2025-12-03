@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "battery_health": {
+      "type": "sse",
+      "url": "http://localhost:8090/sse"
+    }
+  }
+}
